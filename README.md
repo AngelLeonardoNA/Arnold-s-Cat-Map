@@ -1,3 +1,3 @@
 # Arnold-s-Cat-Map
-pip install Pillow
+pip install Pillow<br/>
 python arnoldCatMap.py
